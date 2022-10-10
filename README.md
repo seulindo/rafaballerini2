@@ -1,7 +1,7 @@
 ## Olá! Eu sou Daniel Tadeu Ferrari
 
 - 🔭 Hoje trabalho como Gestor de Tráfego
-- 🌱 Estudando Python e Javascript
+- 🌱 Estudando Python, Javascript, Django, AWS
 
 <div>
   <a href="https://beacons.ai/seulindo">
